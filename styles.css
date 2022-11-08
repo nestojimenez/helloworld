@@ -1,0 +1,20 @@
+h1{
+    font-family: Helvetica;
+    text-align: center;
+    padding: 50px;
+}
+div{
+    margin: auto;
+    width: 10%;
+    border: 3px solid rgb(15, 15, 242);
+    padding: 10px;
+}
+button{
+    font-family: Helvetica;
+}
+label{
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+}
